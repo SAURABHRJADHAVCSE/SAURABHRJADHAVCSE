@@ -40,6 +40,6 @@ Because I value community collaboration, I actively contribute to external repos
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/saurabhjadhav](https://linkedin.com/in/saurabhjadhav) *(Update with your exact URL)*
+* **LinkedIn:** [linkedin.com/in/saurabhjadhav](https://www.linkedin.com/in/saurabhjadhav-cse) *(Update with your exact URL)*
 * **Google Play Store:** [Link to your developer page](#)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [saurabhjadhav.cse@gmail.com](mailto:saurabhjadhav.cse@gmail.com)
