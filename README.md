@@ -3,9 +3,6 @@
 ### Frontend Developer | Android Developer | Lead Software Engineer
 
 I am a developer who specializes in building exceptional digital experiences. Whether I'm crafting highly responsive web interfaces or deploying native Android applications, I focus on writing clean, accessible, and maintainable code. 
-
-Currently, I am building **CinematicTale**, a web-based AI storytelling platform that allows users to generate custom narratives brought to life with AI-generated images, videos, and audio. I also frequently contribute to open-source projects, collaborating with other engineers to improve community-driven codebases.
-
 ---
 
 ### 🛠️ My Tech Stack
@@ -27,7 +24,6 @@ Currently, I am building **CinematicTale**, a web-based AI storytelling platform
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **CinematicTale** | A web-based AI storytelling platform integrating generated images, video, and audio. | [View Project](#) |
 | **Elite Mindset Forge** | A platform focused on building discipline and transforming your daily mindset. | [elitemindsetforge.com](https://www.elitemindsetforge.com/) |
 | **Rik-Ride** | A modern ride-booking application (Play Store release pending). | [rik-ride.in](https://rik-ride.in/) |
 
