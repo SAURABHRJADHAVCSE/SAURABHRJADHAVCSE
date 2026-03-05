@@ -33,8 +33,8 @@ I am a developer who specializes in building exceptional digital experiences. Wh
 
 Because I value community collaboration, I actively contribute to external repositories. Here are a few highlights of my merged work:
 
-* **[Project Name 1]:** [Briefly describe what you did, e.g., "Refactored the navigation component using Tailwind and shadcn/ui."] ([Link to PR](#))
-* **[Project Name 2]:** [Briefly describe your impact, e.g., "Resolved a major state management bug in the Next.js frontend."] ([Link to PR](#))
+* **Elite Mindset Forge** — Built and shipped key frontend features and UI flows for a discipline & mindset platform.
+* **Rik-Ride** — Implemented core app functionality and user experience for a ride-booking product (release pending).
 
 ---
 
