@@ -1,6 +1,6 @@
 # Hi there, I'm Saurabh Jadhav 👋
 
-### Frontend Developer | Android Developer | Lead Software Engineer
+### Frontend Developer | Android Developer 
 
 I am a developer who specializes in building exceptional digital experiences. Whether I'm crafting highly responsive web interfaces or deploying native Android applications, I focus on writing clean, accessible, and maintainable code. 
 ---
